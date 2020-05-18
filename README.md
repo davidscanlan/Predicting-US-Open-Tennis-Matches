@@ -1,10 +1,10 @@
 # Utilizing Machine Learning To Predict US Open Tennis Winners
 
 Team Members:
-David Scanlan
-Johan Gerfaux
-Joshua Edwards
-Agustin Toll Villagra
+- David Scanlan
+- Johan Gerfaux
+- Joshua Edwards
+- Agustin Toll Villagra
 
 A team of four UC Berkeley graduate students spent the semester building machine learning models to predict US Open Tennis Winners. In just a few sentences, one can surely understand the vast amount of data, statistics, and information that can be attributed to a seasoned professional; the world ranking of a player, the total number of sets a player won,  the number of forced errors a player makes, and so forth. With data in mind, the goal of this project is to investigate the applicability of utilizing machine learning algorithms to predict the winner of the 2020 U.S. Open tennis tournament. 
 
